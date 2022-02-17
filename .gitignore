@@ -1,0 +1,10 @@
+*.html
+*.PrjPcbStructure
+*.pdf
+*.txt
+*.LOG
+
+# 指定文件夹
+Project Logs for MCU/
+History/
+__Previews/

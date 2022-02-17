@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\Users\Empolal\Documents\Altium\MCU\Project Outputs for MCU\Pick Place for MCU.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/02/22
+Time:       19:57
+Revision:   6ef4e25a496bcba7568b645f4d2a1c03ee576064
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"J1","SWD_5P","BottomLayer","XH2.54-WS-5P","1248.000","1285.374","0",""
+"COM1","Type-C","BottomLayer","USB-tYPE_C_C","277.418","1318.005","0","USB"
+"U2","TFT_1.3_12Pin","TopLayer","LCD_1.3B","917.662","368.000","180","ST7789V-SPI"
+"Y2","8MHZ","BottomLayer","XTAL_3225","772.000","1240.000","180","CRYSTAL"
+"Y1","32.768KHz","BottomLayer","XTAL_SMD_3215","575.000","1279.000","270","CRYSTAL"
+"U3","TTP223","TopLayer","SOT-23-6","1449.000","1094.000","270","´¥ÃþÐ¾Æ¬"
+"U1","SPX3819M5-L","TopLayer","SOT23_5","122.000","884.819","90","DC-DC   3.3V  500ma"
+"R9","4.7K","BottomLayer","RESC_0603_2","896.000","133.000","90","RES ÌùÆ¬"
+"R8","0","TopLayer","RESC_0603_2","1321.000","989.740","90","RES ÌùÆ¬"
+"R7","20R","BottomLayer","RESC_0603_2","1291.000","174.000","0","RES ÌùÆ¬"
+"R6","2K","TopLayer","RESC_0603_2","200.000","151.000","180","RES ÌùÆ¬"
+"R5","10K","BottomLayer","RESC_0603_2","553.000","1040.000","180","RES ÌùÆ¬"
+"R4","22R","BottomLayer","RESC_0603_2","374.003","1012.227","315","RES ÌùÆ¬"
+"R3","22R","BottomLayer","RESC_0603_2","415.450","1053.403","135","RES ÌùÆ¬"
+"R2","2K","TopLayer","RESC_0603_2","1443.000","683.000","0","RES ÌùÆ¬"
+"R1","1.5K","BottomLayer","RESC_0603_2","332.000","971.000","135","RES ÌùÆ¬"
+"MCU1","STM32F405RET6","BottomLayer","LQFP_64_10X10","781.717","744.102","0","MCU"
+"LED1","LED_R/G/B/Y","TopLayer","RGB_3528","94.503","380.008","90","LED"
+"K1","key","TopLayer","KEY-A","1471.391","279.846","90","Key"
+"J3","30PIN-6.00mm","BottomLayer","BTB_Double_30Pin_Up","1387.795","649.606","0",""
+"J2","30PIN-6.00mm","BottomLayer","BTB_Double_30Pin_Up","187.008","649.606","180",""
+"D2","Diode","BottomLayer","SOD123","599.000","104.000","180","¿ª¹Ø¶þ¼«¹Ü"
+"D1","Diode_SMA","BottomLayer","DIODE_SOD123","118.866","1097.000","0","Diode_Ð¤ÌØ»ù"
+"C14","4.7uF","BottomLayer","CAP_0603","390.000","164.500","270","CAP"
+"C13","22PF","TopLayer","CAP_0603","1511.000","1253.500","270","CAP  12~50V"
+"C12","100NF","TopLayer","CAP_0603","1449.500","961.000","180","CAP  12~50V"
+"C11","10UF","BottomLayer","CAP_0603","1062.500","508.000","0","CAP  12~50V"
+"C10","100NF","BottomLayer","CAP_0603","929.605","1077.395","315","CAP  12~50V"
+"C9","100NF","BottomLayer","CAP_0603","1186.000","361.500","90","CAP  12~50V"
+"C8","100UF","TopLayer","CAP_3528_B","77.000","676.000","90","CAP  6~12V  îãµçÈÝ"
+"C7","100NF","TopLayer","CAP_0603","124.500","1020.000","0","CAP  12~50V"
+"C6","10UF","BottomLayer","CAP_0603","519.500","505.000","180","CAP  12~50V"
+"C5","22PF","BottomLayer","CAP_0603","823.000","1366.500","270","CAP  12~50V"
+"C4","22PF","BottomLayer","CAP_0603","724.000","1368.500","270","CAP  12~50V"
+"C3","100NF","TopLayer","CAP_0603","1449.500","877.000","180","CAP  12~50V"
+"C2","10PF","BottomLayer","CAP_0603","610.500","1430.000","180","CAP  12~50V"
+"C1","10PF","BottomLayer","CAP_0603","553.500","1129.000","0","CAP  12~50V"
