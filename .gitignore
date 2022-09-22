@@ -1,6 +1,6 @@
 *.html
 *.PrjPcbStructure
-*.pdf
+#*.pdf
 *.txt
 *.LOG
 
